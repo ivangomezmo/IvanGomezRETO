@@ -39,4 +39,18 @@ Lo representamos a través del siguiente diagrama de casos de uso:
 
 <href> Diagrama EXAMEN MANU.png </href>
 ![image](https://github.com/user-attachments/assets/b1338c49-213d-49b8-a5ce-29b7152e554d)
+## Contribución
+¿Quieres colaborar en el desarrollo?
+* 1.Haz un fork del repositorio.
+* 2.Crea una nueva rama
+* 3.Realiza tus cambios y haz commit
+* 4.Haz push a la rama
+* 5.Abre un pull request su revisión
+## Subvención
+Este proyecto está subvencionado por el gobierno de España
+Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra documentación técnica.
+
+Otros organismos colaboradores:
+![image](https://github.com/user-attachments/assets/7da8b860-6e49-4e6d-9a73-78117b70bb11)
+
 
