@@ -37,4 +37,4 @@ Administrador      Administra personal, informes y facturación.
 
 Lo representamos a través del siguiente diagrama de casos de uso:
 
-<href>Diagrama EXAMEN MANU.png</href>
+<href> Diagrama EXAMEN MANU.png </href>
