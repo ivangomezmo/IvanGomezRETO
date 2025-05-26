@@ -1,7 +1,7 @@
 # Documentación de la Aplicación de Gestión Veterinaria
 Índice
 * Documentación de la Aplicación de Gestión Veterinaria
-* Índice
+** Índice
 * Introducción
 * Instalación
 * Uso
