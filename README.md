@@ -34,3 +34,7 @@ Paciente      Solicita citas, accede a su historial, contacta con el médico.
 Veterinario      Gestiona citas, consulta historiales, emite recetas.
 
 Administrador      Administra personal, informes y facturación.
+
+Lo representamos a través del siguiente diagrama de casos de uso:
+
+<href>
