@@ -51,6 +51,8 @@ Este proyecto está subvencionado por el gobierno de España
 Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra documentación técnica.
 
 Otros organismos colaboradores:
+
+
 ![image](https://github.com/user-attachments/assets/7da8b860-6e49-4e6d-9a73-78117b70bb11)
 
 
