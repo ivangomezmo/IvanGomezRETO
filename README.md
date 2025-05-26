@@ -1,5 +1,5 @@
 # Documentación de la Aplicación de Gestión Veterinaria
-# Índice
+## Índice
 * Documentación de la Aplicación de Gestión Veterinaria
 * Índice
 * Introducción
@@ -7,14 +7,14 @@
 * Uso
 * Contribución
 * Subvención
-# Introducción
+## Introducción
 El Sistema de Gestión Veterinaria desarrollado por el alumnado del IES Miguel Herrero Pereda permite a pacientes, médicos y administradores gestionar las operaciones básicas de un centro veterinario de forma segura y eficiente.
-# Instalación
+## Instalación
 Para instalar y configurar la apicación en tu entorno local, sigue los siguientes pasos:
 *1. Clona el repositorio desde GitHub:
 *2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode, IntelliJ...).
 *3. Compila y ejecuta el proyecto.
-# Uso
+## Uso
 El sistema veterinario incluye las siguientes funcionalidades principales:
 * Solicitud y gestión de citas.
 * Acceso y consulta del historial clínico.
@@ -27,4 +27,4 @@ El sistema veterinario incluye las siguientes funcionalidades principales:
 Para utilizar la aplicación, sigue las instrucciones proporcionales en la interfaz de usuario o consulta la documentación del usuario incluida en el repositorio.
 A continuación se detalla la función dentro del sistema de cada uno de los usuarios:
 
-## Usuario
+### Usuario
